@@ -158,22 +158,22 @@ h2{
 
 #nps{
     grid-area: nps;
-    background-image: url("/images/NPS.png");
+    background-image: url("../images/NPS.png");
 }
 
 #chicagoReader{
     grid-area: chicagoReader;
-    background-image: url("/images/Reader.png");
+    background-image: url("../images/Reader.png");
 }
 
 #fridgeFriends{
     grid-area: fridgeFriends;
-    background-image: url("/images/FridgeFriends.png");
+    background-image: url("../images/FridgeFriends.png");
 }
 
 #secretary{
     grid-area: secretary;
-    background-image: url("/images/Secretary.png");
+    background-image: url("../images/Secretary.png");
 }
 
 .worksGridArea{
